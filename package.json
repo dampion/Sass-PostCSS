@@ -1,0 +1,14 @@
+{
+  "name": "sasspostcss",
+  "version": "1.0.0",
+  "description": "Basic usage to sass and postcss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parker",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
